@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "qview",
+  "version": "1.0.0",
+  "description": "A structure to view all student work as web pages, in one place, mobile and desktop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryker-Smith/qview.git"
+  },
+  "author": "Fachtna Roe",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ryker-Smith/qview/issues"
+  },
+  "homepage": "https://github.com/Ryker-Smith/qview#readme"
+}
